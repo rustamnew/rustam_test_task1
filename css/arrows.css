@@ -3,10 +3,10 @@
     top: 50%;
 }
 .arrow.left{
-    left: 10%;
+    left: 6%;
 }
 .arrow.right{
-    right: 10%;
+    right: 6%;
 }
 
 .arrow {
@@ -65,11 +65,4 @@
 }
 .arrow-staff:hover:before {
     border-color: #1555a5 !important;
-}
-
-.arrow-staff.left {
-    left: 5%;
-}
-.arrow-staff.right {
-    right: 5%;
 }
