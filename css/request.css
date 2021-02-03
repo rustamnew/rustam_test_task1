@@ -71,7 +71,7 @@
     border: 2px solid #8dc3ff;
 }
 
-.request__input:focus + .request__input-label{
+.request__input.label:focus + .request__input-label{
     display: none;
 }
 
