@@ -1,0 +1,85 @@
+.button {
+    padding: 12px 22px;
+    cursor: pointer;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    min-width: 120px;
+    line-height: 1;
+    box-sizing: border-box;
+    
+}
+
+.button.red {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #bb0367;
+    color: #bb0367;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.button.red:hover {
+    background-color: #bb0367;
+    color: #ffffff;
+}
+.button.red.small {
+    padding: 0;
+    border: 1px solid;
+    text-transform: unset;
+    width: 100px;
+    height: 22px;
+    font-size: 14px;
+}
+.button.blue {
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 8px 12px;
+    overflow: hidden;
+}
+.button.blue.lighter {
+    background-color: #009ddb;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.button.light {
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+    padding: 16px 28px;
+    color: #1a296b;
+    width: 120px;
+}
+.button.light:hover {
+    border: 2px solid #bddff8;
+}
+
+.hero-button {
+    width: 120px;
+}
+.request-button {
+    margin-bottom: 20px;
+    
+}
+.about-button {
+    width: 190px;
+    font-size: 18px !important;
+    text-transform: unset !important;
+    font-weight: 400 !important;
+}
+.promo-button {
+    margin-right: 20px;
+    height: 45px;
+    width: 200px
+}
+.staff-button {
+    background-color: #1556a5;
+    width: 100%;
+    height: 46px;
+    margin-bottom: 10px;
+}
+.staff-button:hover {
+    background-color: #cd006f;
+}
