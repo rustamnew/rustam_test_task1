@@ -31,7 +31,7 @@
     clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
     background-color: #ffffff;
     padding: 30px;
-    
+    text-align: center;
 }
 
 .about__decorative-topline {

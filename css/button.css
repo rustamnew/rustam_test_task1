@@ -56,30 +56,30 @@
     border: 2px solid #bddff8;
 }
 
-.hero-button {
+.button-hero {
     width: 120px;
 }
-.request-button {
+.button-request {
     margin-bottom: 20px;
     
 }
-.about-button {
+.button-about {
     width: 190px;
     font-size: 18px !important;
     text-transform: unset !important;
     font-weight: 400 !important;
 }
-.promo-button {
+.button-promo {
     margin-right: 20px;
     height: 45px;
     width: 200px
 }
-.staff-button {
+.button-staff {
     background-color: #1556a5;
     width: 100%;
     height: 46px;
     margin-bottom: 10px;
 }
-.staff-button:hover {
+.button-staff:hover {
     background-color: #cd006f;
 }
