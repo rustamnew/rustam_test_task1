@@ -4,6 +4,7 @@
     background-image: url('../img/staff_background.png');
     background-position: bottom -65% center;
     background-repeat: no-repeat;
+    position: relative;
 }
 
 .staff__list {
