@@ -35,6 +35,7 @@
 }
 .button.blue {
     border-radius: 10px;
+    background-color: #009ddb;
     color: #ffffff;
     padding: 8px 12px;
     overflow: hidden;
