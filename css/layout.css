@@ -39,6 +39,10 @@ section {
     align-items: center;
 }
 
+.container-header {
+    align-items: unset;
+}
+
 .container-hero {
     flex-direction: row;
     justify-content: space-between;
